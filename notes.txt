@@ -1,0 +1,9 @@
+Spring Boot Restful Web Servicies
+
+The flight reservation application should expose the web Servicies
+
+
+flight and checkin are the two different application we integrating this two projects using microservicies
+why i am using microservivies :- because checked in is a part of same application
+checkin project:-
+only requiress spring web
